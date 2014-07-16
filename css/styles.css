@@ -1,0 +1,15 @@
+body {
+  background-color: salmon;
+}
+
+
+ul#task-group-list li {
+  color:purple;
+  text-decoration: underline;
+}
+
+ul#task-group-list li:hover {
+  font-style: italic;
+  cursor:pointer;
+}
+
